@@ -15,7 +15,6 @@
 <ul>
     <li><strong>models/</strong>: Contains the model classes for the Event entity.</li>
     <li><strong>actions/</strong>: Contains all the event-related actions (e.g., Create Event, Delete Event, etc.).</li>
-    <li><strong>partials/</strong>: Used to separate and modularize event handling classes for better code organization.</li>
 </ul>
 
 <h2>Commands</h2>
