@@ -1,0 +1,14 @@
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\bin\Debug\net8.0\Event Management System.exe
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\bin\Debug\net8.0\Event Management System.deps.json
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\bin\Debug\net8.0\Event Management System.runtimeconfig.json
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\bin\Debug\net8.0\Event Management System.dll
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\bin\Debug\net8.0\Event Management System.pdb
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.AssemblyInfoInputs.cache
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.AssemblyInfo.cs
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.dll
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\refint\Event Management System.dll
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.pdb
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\Event Management System.genruntimeconfig.cache
+C:\Users\Avinash Sahani\RiderProjects\Event Management System\Event Management System\obj\Debug\net8.0\ref\Event Management System.dll
