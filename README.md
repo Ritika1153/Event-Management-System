@@ -25,7 +25,7 @@
     <li><strong>Update</strong>: To update an existing event, type <code>update &lt;event_id&gt;</code>. Replace <code>&lt;event_id&gt;</code> with the ID of the event you want to update.</li>
     <li><strong>Delete</strong>: To delete an event, type <code>delete &lt;event_id&gt;</code>. Replace <code>&lt;event_id&gt;</code> with the ID of the event you wish to remove.</li>
     <li><strong>List</strong>: To list all events, simply type <code>list</code>.</li>
-    <li><strong>Get/strong>: To get an event, simply type <code>get &lt;event_id&gt;</code></li>
+    <li><strong>Get</strong>: To get an event, simply type <code>get &lt;event_id&gt;</code></li>
     
 </ul>
 
